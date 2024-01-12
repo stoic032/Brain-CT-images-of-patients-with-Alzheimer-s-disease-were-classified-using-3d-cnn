@@ -1,0 +1,4 @@
+2024-01-12 20:52:37,529 - INFO - Epoch 1: time = 251(s) | train_loss = 0.9858 | train_acc:0.5619 val_loss:0.726680 | val_acc:0.5333
+2024-01-12 20:56:47,651 - INFO - Epoch 2: time = 250(s) | train_loss = 0.5466 | train_acc:0.7286 val_loss:0.403829 | val_acc:0.7556
+2024-01-12 21:00:57,803 - INFO - Epoch 3: time = 250(s) | train_loss = 0.3760 | train_acc:0.7857 val_loss:0.386058 | val_acc:0.7556
+2024-01-12 21:01:04,634 - INFO - all time:759(s) | test_loss:0.372240 | test_acc:0.7556

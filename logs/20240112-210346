@@ -1,0 +1,11 @@
+2024-01-12 21:07:58,086 - INFO - Epoch 1: time = 251(s) | train_loss = 0.3316 | train_acc:0.7905 val_loss:0.328405 | val_acc:0.8222
+2024-01-12 21:12:08,273 - INFO - Epoch 2: time = 250(s) | train_loss = 0.3213 | train_acc:0.7952 val_loss:0.345050 | val_acc:0.8889
+2024-01-12 21:16:18,433 - INFO - Epoch 3: time = 250(s) | train_loss = 0.2999 | train_acc:0.8524 val_loss:0.282012 | val_acc:0.8444
+2024-01-12 21:20:28,667 - INFO - Epoch 4: time = 250(s) | train_loss = 0.2631 | train_acc:0.8857 val_loss:0.282467 | val_acc:0.8444
+2024-01-12 21:24:38,916 - INFO - Epoch 5: time = 250(s) | train_loss = 0.2050 | train_acc:0.9238 val_loss:0.349907 | val_acc:0.8222
+2024-01-12 21:28:49,071 - INFO - Epoch 6: time = 250(s) | train_loss = 0.1821 | train_acc:0.9286 val_loss:0.239021 | val_acc:0.8889
+2024-01-12 21:32:59,324 - INFO - Epoch 7: time = 250(s) | train_loss = 0.1064 | train_acc:0.9667 val_loss:0.363005 | val_acc:0.8444
+2024-01-12 21:37:09,453 - INFO - Epoch 8: time = 250(s) | train_loss = 0.0914 | train_acc:0.9619 val_loss:0.347171 | val_acc:0.8222
+2024-01-12 21:41:19,588 - INFO - Epoch 9: time = 250(s) | train_loss = 0.0593 | train_acc:0.9762 val_loss:0.257352 | val_acc:0.8889
+2024-01-12 21:45:29,720 - INFO - Epoch 10: time = 250(s) | train_loss = 0.0378 | train_acc:0.9857 val_loss:0.540586 | val_acc:0.8667
+2024-01-12 21:45:36,546 - INFO - all time:2510(s) | test_loss:0.571945 | test_acc:0.8222

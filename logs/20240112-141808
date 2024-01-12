@@ -1,0 +1,11 @@
+2024-01-12 14:22:05,081 - INFO - Epoch 1: Train Loss = 0.7085, Validation Loss:0.401276, Validation Accuracy:0.8222
+2024-01-12 14:25:59,763 - INFO - Epoch 2: Train Loss = 0.4483, Validation Loss:0.410544, Validation Accuracy:0.8222
+2024-01-12 14:29:54,472 - INFO - Epoch 3: Train Loss = 0.4467, Validation Loss:0.448973, Validation Accuracy:0.7556
+2024-01-12 14:33:49,195 - INFO - Epoch 4: Train Loss = 0.4037, Validation Loss:0.355564, Validation Accuracy:0.6889
+2024-01-12 14:37:43,939 - INFO - Epoch 5: Train Loss = 0.3897, Validation Loss:0.338313, Validation Accuracy:0.7111
+2024-01-12 14:41:38,676 - INFO - Epoch 6: Train Loss = 0.3686, Validation Loss:0.372714, Validation Accuracy:0.7111
+2024-01-12 14:45:33,534 - INFO - Epoch 7: Train Loss = 0.3644, Validation Loss:0.369565, Validation Accuracy:0.7111
+2024-01-12 14:49:28,327 - INFO - Epoch 8: Train Loss = 0.3588, Validation Loss:0.375124, Validation Accuracy:0.6889
+2024-01-12 14:53:23,057 - INFO - Epoch 9: Train Loss = 0.3521, Validation Loss:0.333400, Validation Accuracy:0.6889
+2024-01-12 14:57:17,897 - INFO - Epoch 10: Train Loss = 0.3544, Validation Loss:0.367575, Validation Accuracy:0.6889
+2024-01-12 14:57:24,464 - INFO - Test Loss:0.374490, Test Accuracy:0.6889
