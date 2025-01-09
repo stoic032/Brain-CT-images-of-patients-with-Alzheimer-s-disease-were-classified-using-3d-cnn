@@ -1,6 +1,6 @@
 
 
-# 基于3D-CNN的阿兹海默症识别
+# 基于3D-CNN的阿兹海默症(Alzheimer's disease)识别
 
 数据来源：datafountain竞赛平台
 
